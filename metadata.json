@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "PHSYAI",
+  "description": "This model is fully developed and seems to be ok. Yet, SME user experience must be obtained for future development."
+}
